@@ -1,4 +1,6 @@
-﻿### 盐世界/在人类一旦成年就会变成盐的世界中生还的故事
+Disclaimer: The name 'SaltfishAmi' has nothing to do with the contents of this 'salt' repository.
+
+### 盐世界/在人类一旦成年就会变成盐的世界中生还的故事
 [日]宙乃尘屑著
 
 amiboss 起司 译
