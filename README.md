@@ -126,7 +126,8 @@ amiboss 起司 译 / Translation by amiboss & cheese
 　　第十四话　　不用客气/“彼此彼此嘛”（工作中）
 　　Chapter XIV.	No Need to Hesitate / _The same to you_ (working on)
 
-　　第十五话　　因果报应/“很痛苦的样子”
+　　第十五话　　因果报应/“很痛苦的样子”（工作中）
+　　Chapter XV.		Karma and Retribution / _You seem suffering..._  (working on)
 
 　　第十六话　　幼女心理/“天真的心灵”
 
