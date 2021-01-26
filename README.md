@@ -123,8 +123,8 @@ amiboss 起司 译 / Translation by amiboss & cheese
 　　祐也的视频信息
 　　Video message from Yuuya
 
-　　第十四话　　不用客气/“彼此彼此嘛”（工作中）
-　　Chapter XIV.	No Need to Hesitate / _The same to you_ (working on)
+　　第十四话　　无需客气/“彼此彼此嘛”
+　　Chapter XIV.	No Need to Hesitate / _The same to you_
 
 　　第十五话　　因果报应/“很痛苦的样子”
 
