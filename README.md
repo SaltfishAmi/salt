@@ -28,7 +28,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　The translation and non-commercial distribution of this work has been authorized by the original author.
 
-　　There are no plans for an English translation. Beyond my abilities, after all.
+　　There are no plans for an English translation. Please utilize ChatGPT if you need one.
 
 ### 翻译说明 Translator's words
 
@@ -46,9 +46,9 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　**译者对本书的翻译及非商用发布已通过“成为小说家吧”网站站内信向原作者提出申请，并得到了非独占的授权许可。**
 
-　　译者对本书的翻译部分保留权利。在注明原作者及译者的前提下，欢迎对本书随意进行转载，但不得对其设置“（！）请回复后查看本帖”“（×）阅读权限255”“（￥）本帖售价3金币”“本帖要求用户等级300级以上，您目前只有9级，快去升级吧！”等可憎的论坛限制。任何人未经原作者及译者许可，不得将本书用于商业用途。
+　　译者对本书的翻译部分保留权利。在注明原作者及译者的前提下，欢迎对本书随意进行转载，但不得对其设置“（！）请回复后查看本帖”“（×）阅读权限255”“（￥）本帖售价3金币”“本帖要求用户等级300级以上，您目前只有9级，快去升级吧！”等可憎的论坛限制。允许仅基于用户年龄的限制。任何人未经原作者及译者许可，不得将本书用于商业用途。
 
-　　All rights of the translation portion are reserved by the translator. You are welcome to copy/redistribute the translated work as long as the original author and translator is credited, but you MUST NOT apply any BBS restrictions (such as requiring the user to make a reply, pay ten coins or be VIP level 300 in order to view the contents). For redistribution of unmodified original work, please ask the original author for permission. Any commercial use is prohibited without written consent of the original author.
+　　All rights of the translation portion are reserved by the translator. You are welcome to copy/redistribute the translated work as long as the original author and translator is credited, but you MUST NOT apply any BBS restrictions (such as requiring the user to make a reply, pay ten coins or be VIP level 300 in order to view the contents). Age-based restriction is permitted. For redistribution of unmodified original work, please ask the original author for permission. Any commercial use is prohibited without written consent of the original author.
 
 
 　　阅读本书时若发现任何错误，烦请您发issue或发送邮件至ami@saltfish.moe指正。例外：“靠”（尻）和“操”（肏）用于骂人时不视为错别字。
@@ -144,7 +144,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　第二十二话　浴室情交/“放松好了吗”///
 
-　　第二十三话　注意头顶/“他小心地看着脚下”[1]
+　　第二十三话　注意头顶/“他小心地看着脚下”[1]日文中“看着脚下”有“乘人之危、发现对方的弱点并趁机获取利益”的意思。
 
 　　第二十四话　生涯誓约/“两人非常般配哦”
 
@@ -154,7 +154,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　第二十七话　心理伤痕/“其实好害怕……”
 
-////前日谈　　　義妹⼼理
+////前日谈　　　義妹心理
 
 　　第二十八话　学妹心理/“已经到极限了吧”
 
@@ -192,7 +192,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　第四十话　　物资回收/“似乎有很复杂的缘由”
 
-　　第四十一话　仇雠邂逅/“那就像是命运一样”[1]
+　　第四十一话　仇雠邂逅/“那就像是命运一样”[1]“仇雠”的读音是“chóu chóu”，仇敌的意思。
 
 ////第四十二话　白貌少女/“”「よくもやってくれたな」 
 
@@ -222,7 +222,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　第五十四话　依赖心理/“…………”
 
-　　第五十五话　女性集团/“阿玛宗人”[1]
+　　第五十五话　女性集团/“阿玛宗人”[1]又译亚马逊人，希腊神话中十分强势的仅有女性的部族，泛指力量强大的女性。并不是南美亚马逊地区的人。
 
 　　第五十六话　起死回生/“不会交给任何人”
 
@@ -298,3 +298,20 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 
 
+#### 第三卷 善恶篇 Part III: The Good and the Evil
+
+　　第九十一话　过往回忆
+
+　　第九十二话　鱼水之交
+
+　　第九十三话　末世生态
+
+　　第九十四话　因缘往来
+
+　　第九十五话　警惕严密
+
+　　第九十六话　旅行心态
+
+　　第九十七话　海誓山盟
+
+　　第九十八话　迂直之计[1]出典《孙子兵法》：軍爭之難者，以迂為直，以患為利。故迂其途而誘之以利，後人發，先人至，此知迂直之計者也。大意是智慧地判断何时该走捷径、何时反而该绕远路，就能够在作战中抢占先机。
