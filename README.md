@@ -1,10 +1,10 @@
-Disclaimer: The name 'SaltfishAmi' has nothing to do with the contents of this 'salt' repository.
+**汉语（简体字）** | [日本語](./README.ja.md) | [English](./README.en.md)
 
-### zh-Hans 盐世界/在人类一旦成年就会变成盐的世界中生还的故事
+### 盐世界/在人类一旦成年就会变成盐的世界中生还的故事 汉语翻译版
 
 [日]宙乃尘屑著
 
-amiboss 起司 译 / Translation by amiboss & cheese
+amiboss 起司 译
 
 　　在某一个夏日，世界发生了剧变，成年人的身体突然全部变成了盐。
 
@@ -20,23 +20,13 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 ■本作第一卷已由“キルタイムコミュニケーション”旗下的“ビギニングノベルズ”文库书籍化。详细请参见活动报告。[1]
 
-### 成人すると塩になる世界で生き残る話 中国語翻訳版
-
 　　原作：https://novel18.syosetu.com/n4991de/
 
-　　この本を翻訳及び非営利的に配布することに関しては作者様から許可を頂いております。
+### 翻译说明
 
-　　The translation and non-commercial distribution of this work has been authorized by the original author.
-
-　　There are no plans for an English translation. Please utilize ChatGPT if you need one.
-
-### 翻译说明 Translator's words
-
-　　本书为18禁小说，首发于日本“成为小说家吧”集团旗下“深夜Novels”成人小说网站。本书部分章节含有粗口、暴力、血腥、虐待、凶杀、枪支、性交、强奸、轮奸等不适合18岁以下读者的内容。**本书情节纯属虚构，请各位读者遵守当地法律法规。**原作链接：https://novel18.syosetu.com/n4991de/ 。
+　　本书为18禁小说，首发于日本“成为小说家吧”集团旗下“MidnightNovels”成人小说网站。本书部分章节含有粗口、暴力、血腥、虐待、凶杀、枪支、性行为描写等不适合18岁以下读者的内容。**本书情节纯属虚构，请各位读者遵守当地法律法规。**
 
 　　**GitHub 不允许发布直接的性描写内容，因此相关内容将会被略去。受影响的话数有：8、22、29、63、85、90**
-
-　　Sensitive scenes are omitted due to GitHub regulations.
 
 　　本书可能会有对您造成心理不适甚至创伤的残酷描写。请您再次确认您年满18周岁、心智成熟、能接受残酷情节后继续阅读本书。
 
@@ -46,10 +36,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 　　**译者对本书的翻译及非商用发布已通过“成为小说家吧”网站站内信向原作者提出申请，并得到了非独占的授权许可。**
 
-　　译者对本书的翻译部分保留权利。在注明原作者及译者的前提下，欢迎对本书随意进行转载，但不得对其设置“（！）请回复后查看本帖”“（×）阅读权限255”“（￥）本帖售价3金币”“本帖要求用户等级300级以上，您目前只有9级，快去升级吧！”等可憎的论坛限制。允许仅基于用户年龄的限制。任何人未经原作者及译者许可，不得将本书用于商业用途。
-
-　　All rights of the translation portion are reserved by the translator. You are welcome to copy/redistribute the translated work as long as the original author and translator is credited, but you MUST NOT apply any BBS restrictions (such as requiring the user to make a reply, pay ten coins or be VIP level 300 in order to view the contents). Age-based restriction is permitted. For redistribution of unmodified original work, please ask the original author for permission. Any commercial use is prohibited without written consent of the original author.
-
+　　译者对本书的翻译部分保留权利。在注明原作者及译者的前提下，欢迎对本书随意进行转载，但不得对其设置“（！）请回复后查看本帖”“（×）阅读权限255”“（￥）本帖售价3金币”“本帖要求用户等级300级以上，您目前只有9级，快去升级吧！”等可憎的论坛限制。允许仅基于用户年龄的限制。任何人未经原作者及译者许可，不得将本书用于商业用途。译者可随时撤回对转载的许可，无需任何理由或提前通知。
 
 　　阅读本书时若发现任何错误，烦请您发issue或发送邮件至ami@saltfish.moe指正。例外：“靠”（尻）和“操”（肏）用于骂人时不视为错别字。
 
@@ -63,9 +50,9 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 
 
-### 目录 Contents
+### 目录
 
-#### 第一卷 怪物篇 Part I: The Monster
+#### 第一卷 怪物篇
 
 　　人设图
 
@@ -76,55 +63,38 @@ amiboss 起司 译 / Translation by amiboss & cheese
 　　书籍版周边地图
 
 　　第一话　　　现实逃避/“他曾处于孤独之中”
-　　Chapter I.		Escape from Reality / _He was secluded_
 
 　　第二话　　　状况整理/“这很荒唐吧”
-　　Chapter II.		Comprehending the Situation / _Absurd, isn't it?_
 
 　　第三话　　　前路艰险/“你头脑很聪明”
-　　Chapter III.	Upcoming Difficulties / _You are a clever one_
 
 　　第四话　　　潜伏窃听/“很可怕的人们”
-　　Chapter IV.		Hide and Spy / _They are terrifying_
 
 　　第五话　　　雨中转移/“静寂让人不安”
-　　Chapter V.		Travel in the Rain / _Silence makes me anxious_
 
 　　第六话　　　临时据点/“松了一口气”
-　　Chapter VI.		Temporary Home / _We can take a rest_
 
 　　第七话　　　处女心理/“走投无路了”
-　　Chapter VII.	Virgin's Mind / _I've been cornered_
 
 　　第八话　　　身体交合/“你很温柔呢”///
-　　Chapter VIII.	Sexual Connection / _You are so gentle_ ///
 
 　　第九话　　　情况询问/“真是个冒失鬼”
-　　Chapter IX.		Questioning / _What a careless one_
 
 　　第十话　　　绑架计划/“太惊讶了”
-　　Chapter X.		Plan of Kidnapping / _I am astonished_
 
 　　周边地图（一）
-　　Map (I)
 
 　　唯的视频信息
-　　Video message from Yui
 
 　　第十一话　　暗夜密探/“谨慎地行动吧”
-　　Chapter XI.		Nighttime Action / _Let's be cautious_
 
 　　第十二话　　园内潜入/“大胆地行动吧”
-　　Chapter XII.	Kindergarten Sneak-in / _Let's be audacious_
 
 　　第十三话　　联络要员/“很怕孤单的人”
-　　Chapter XIII.	Communication Personnel / _She was in loneliness_
 
 　　祐也的视频信息
-　　Video message from Yuuya
 
 　　第十四话　　无需客气/“彼此彼此嘛”
-　　Chapter XIV.	No Need to Hesitate / _The same to you_
 
 　　第十五话　　因果报应/“很痛苦的样子”（已译，未润，未校）
 
@@ -188,7 +158,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 
 
-#### 第二卷 爱仇篇 Part II: The Lovers and Enemies
+#### 第二卷 爱仇篇
 
 　　第四十话　　物资回收/“似乎有很复杂的缘由”
 
@@ -298,7 +268,7 @@ amiboss 起司 译 / Translation by amiboss & cheese
 
 
 
-#### 第三卷 善恶篇 Part III: The Good and the Evil
+#### 第三卷 善恶篇
 
 　　第九十一话　过往回忆
 
